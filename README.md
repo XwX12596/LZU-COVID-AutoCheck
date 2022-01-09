@@ -3,6 +3,7 @@
 每天定时自动打卡（6点，可以自己修改），并将打卡结果推送到微信。
 
 ### 使用步骤
+或者可以跟随https://github.com/fallwink/LZU-Auto-COVID内的步骤进行打卡，但是不要在里面fork
 
 #### 1.fork本仓库
 
