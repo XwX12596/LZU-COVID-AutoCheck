@@ -5,7 +5,8 @@
 ### 使用步骤
 或者可以跟随 https://github.com/fallwink/LZU-Auto-COVID 内的步骤进行打卡，但是不要在里面fork
 
-#### 1.fork本仓库
+#### 1.fork本仓库（点击右上方的Fork键）
+![image](https://user-images.githubusercontent.com/50314975/148666512-0d852b01-f801-42e8-8f4c-375bfc7c03b7.png)
 
 #### 2.然后在仓库`Settings --> secrets`中添加三个`secrets`
 
